@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/user-attachments/assets/821055b2-be7d-45b4-b634-cdd4290efec9)' title='wordle mobile app' width='' alt='Video Walkthrough' />
+<img src='(https://github.com/user-attachments/assets/821055b2-be7d-45b4-b634-cdd4290efec9)' title='wordle mobile app' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
